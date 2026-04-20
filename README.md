@@ -1,4 +1,4 @@
-# `$ whoami` — Rishi Bhuta
+Hi I'm Rishi Bhuta
 
 **A techie with a creative twist.**
 Computer Engineering (Diploma) student based in India 🇮🇳 — blending code with storytelling, one commit at a time.
