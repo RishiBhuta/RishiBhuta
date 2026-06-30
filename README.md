@@ -2,7 +2,7 @@
 
 > Diploma in Computer Engineering (Final Year) · Mumbai, India
 
-I'm someone who's always got five ideas running in my head simultaneously —
+I'm someone who's always got five ideas running in my head simultaneously 
 and I can't rest until I know if at least one of them actually solves something real.
 
 Doesn't have to be big. Could be a student calculating attendance,
